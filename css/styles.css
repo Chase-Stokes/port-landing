@@ -19,6 +19,7 @@ body {
 .card {
   background-color: transparent;
   border-color:darkred;
+  margin-bottom: -500px
 }
 .jumbotron {
   background-color:transparent;
