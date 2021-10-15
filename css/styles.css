@@ -10,5 +10,6 @@
 }
 .image2 {
   float:left;
-  margin-top:auto
+  margin-top:.1in;
+  width:200px;
 }
