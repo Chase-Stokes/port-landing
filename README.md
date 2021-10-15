@@ -1,8 +1,8 @@
-# _{Portfolio Landing Page}_
+# _Portfolio Landing Page_
 
-#### By _**{Chase Stokes}**_
+#### By _**Chase Stokes**_
 
-#### _{Basic HTML to show any progress I've made in learning HTML and CSS.}_
+#### _Basic HTML to show any progress I've made in learning HTML and CSS._
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a template that can be used in the future, to tell people about myself, my experience, and to show any progress I have made since the start of the epicodus program.}_
+_This is a template that can be used in the future, to tell people about myself, my experience, and to show any progress I have made since the start of the epicodus program._
 
 ## Setup/Installation Requirements
 
@@ -27,6 +27,6 @@ _{This is a template that can be used in the future, to tell people about myself
 
 ## License
 
-_{MIT}_
+_MIT_
 
 Copyright (c) _15/15/2021_ _Chase Stokes_
