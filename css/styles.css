@@ -1,9 +1,14 @@
 .jumbo1 {
-  text-align:center;
+  text-align:right;
   color:darkred;
+  margin-left:auto
 }
 .image {
   float:right;
-  padding:20px;
+  padding:10px;
   width:50%
+}
+.image2 {
+  float:left;
+  margin-top:auto
 }
