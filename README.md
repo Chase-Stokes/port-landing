@@ -29,4 +29,4 @@ _This is a template that can be used in the future, to tell people about myself,
 
 _MIT_
 
-Copyright (c) _15/15/2021_ _Chase Stokes_
+Copyright (c) _15/15/2021_ _Chase-Stokes_
