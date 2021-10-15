@@ -29,3 +29,7 @@ h2 {
 .underl {
   text-decoration: underline;
 }
+.test1 {
+  text-align:right;
+  padding-left:75%;
+}
